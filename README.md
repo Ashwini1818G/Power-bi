@@ -1,2 +1,2 @@
 # Power-bi
-This is Superstore sales analysis Dashboard
+Data visualization of Superstore sales using Power bi Dashboard
